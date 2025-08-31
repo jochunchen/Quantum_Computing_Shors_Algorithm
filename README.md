@@ -1,5 +1,5 @@
 # Shor's Algorithm
-This script is a simplified implementation of Shor's algorithm, designed to find the period of a modular exponentiation function, specifically $a^xmod15$. The project demonstrates a fundamental application of quantum computing to a problem in number theory.
+This script is a simplified implementation of Shor's algorithm, designed to find the period of a modular exponentiation function, specifically $a^x\ (mod\ 15)$. The project demonstrates a fundamental application of quantum computing to a problem in number theory.
 
 ## Key Components
 ### 1. The Inverse Quantum Fourier Transform (IQFT)
